@@ -16,3 +16,4 @@ The user should be able to type in events during the day and save it to the loca
 ## Screen Recording
 
 Path below is to the screen recording:
+../DayPlanner/Assets/images/Day Planner.gif
